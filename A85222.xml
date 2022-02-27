@@ -1,0 +1,962 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between Sir Roger --- and Mr. Rob. Ferg--- in Newgate, relating to the plot.</title>
+            <author>Ferguson, Robert, d. 1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85222</idno>
+            <idno type="STC">Wing F735A</idno>
+            <idno type="STC">ESTC R177015</idno>
+            <idno type="EEBO-CITATION">43663293</idno>
+            <idno type="OCLC">ocm 43663293</idno>
+            <idno type="VID">172046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2610:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between Sir Roger --- and Mr. Rob. Ferg--- in Newgate, relating to the plot.</title>
+                  <author>Ferguson, Robert, d. 1714.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the Heirs and Successors of Andrew Anderson, Printer to His most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: tightly bound, stained, and with broken and missing type, resulting in loss of text.</note>
+                  <note>On suspicion of being concerned in Barclay's plot, Robert Ferguson was arrested March 10th, 1695/6, and he remained in Newgate till January 14th, 1696/7, when he was admitted to bail.</note>
+                  <note>Attributed to Ferguson by Wing.</note>
+                  <note>Reproduction of original in: University of Aberdeen. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Assassination attempt, 1696 --  Early works to 1800.</term>
+               <term>Divine right of kings.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:172046:1"/>
+            <pb n="1" facs="tcp:172046:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi> Roger — <hi>and Mr.</hi> Rob. Ferg— In NEWGATE, Relating to the PLOT.</head>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r <hi>Rog.</hi>
+               </speaker>
+               <p>THe worthy Mr. <hi>Ferg</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Ferg.</hi>
+               </speaker>
+               <p>The Reverend Sir <hi>Roger.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Oh Sir, this is a ſmile of Fortune indeed, when in this <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lancholly Region of Abdication, I am permitted, thanks to a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Goaler, the converſation of the celebrated Mr. <hi>Ferg</hi>—, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſe Perſon though I never had the Honour to be acquainted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th, yet his Name and Merits have been my particular Familia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Ferg.</hi>
+               </speaker>
+               <p>Yes Sir, I underſtand my Name and Merits have been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur particular Intimacy; you have been both their Herauld and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſtorian, and have Blazon'd them in Capital <hi>BLACKS</hi> in many <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir <hi>Obſervator.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Really Sir, you do me a great deal of Right; I have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ver been ſparing of <hi>Black</hi> and <hi>White:</hi> The flouriſhes of my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill have been profuſely generous. I never ſaw any ſhining <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ature, or <hi>Moſaick</hi> face, from Great <hi>Nou</hi>'s Noſe, to <hi>Little Titus</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chin, but I have play'd the kind <hi>Lely.</hi> A beautiful Pen ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver want Drapery, where my Penſil could furniſh it.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>'Tis worthily ſaid of you. You ſpeak like a plain <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aler.</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:172046:2"/>
+               <speaker>Sir <hi>Roger.</hi>
+               </speaker>
+               <p>But, Mr. <hi>Ferguſon,</hi> I have had a long deſire of kiſ<g ref="char:EOLunhyphen"/>ſing your Hand by the way of Congratulation, and welcom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to our ſide. From a <hi>Saul</hi> to a <hi>Paul,</hi> a Perſecutor to a Devote as there's joy even in Heaven at a ſinners converſion, give m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> leave to expreſs no common Tranſport, in gaining ſo conſide<g ref="char:EOLunhyphen"/>rable a Patron to our glorious though at preſent, drooping Cauſe</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Ay, Sir <hi>Roger,</hi> I am a ſort of a Come-over, to that droop<g ref="char:EOLunhyphen"/>ing Cauſe, as you call it, <hi>Ecce ſignum,</hi> theſe Bonds.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Roger,</hi>
+               </speaker>
+               <p>Ay, that's our common misfortune. But, Mr. <hi>Ferg</hi>— I hope the great Truths that I have ſo long Preacht, publiſhed and recorded, amongſt the many Eyes they have opened, have ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome illumination upon Mr. <hi>Ferg</hi>—; for I ſhould be proud of being any ways inſtrumental to ſo eminent Converſion.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Nay, Sir <hi>Roger,</hi> not to boaſt any great operation upon me for I am a meer Volunteer, and my whole Illumination is purely my own, nevertheleſs I muſt give thee this immortal Applauſe That the Proteſtant Zealots that have had any hand in this Plo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or been well-wiſhers towards it, are moſt, if not all, thy Di<g ref="char:EOLunhyphen"/>ciples; and all that die in it, are no better than thy Martyrs.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Roger,</hi>
+               </speaker>
+               <p>Good Heaven forbid! My Martyrs! What, draw innocent Blood upon my head: Lord have mercy on me. I hop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you are not in earneſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Nay, 'Tis too true for a Jeſt. I ſay nothing but what can prove.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>How prove Sir! I hope you do not ſet up for an E<g ref="char:EOLunhyphen"/>vidence.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>No, Sir <hi>Roger,</hi> as I am a bonny <hi>Scot,</hi> I am more a Gentle<g ref="char:EOLunhyphen"/>man than to make a Peather; not but my natural, perſonal ten<g ref="char:EOLunhyphen"/>derneſs would go far, to tempt my mortal Frailty that way: How ever there's no danger of me in that caſe, for had I an inclinati<g ref="char:EOLunhyphen"/>on towards it, I am afraid the World wants faith, and a <hi>Ferg</hi>— Oracles would find but few Believers: And therefore pray Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Roger,</hi> diſpell that bodily fear: All I have to ſay is only <hi>Inte<g ref="char:EOLunhyphen"/>nes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:172046:2"/>
+               <speaker>Sir <hi>Roger.</hi>
+               </speaker>
+               <p>Nay, then you have diſpell'd my fear, and there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re pray go on with this bloody Charge againſt me, for I dare and any Arraignment, where there's neither the face of Judge or Jury, Mr. <hi>Ferg</hi>—.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Say you ſo? Then pray tell me what are all our <hi>Jacobite</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ools, but Pupils and Proſelites to thoſe two Pillars of thy Church, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re Divino</hi> and <hi>Paſſive Obedience.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Roger.</hi>
+               </speaker>
+               <p>And what have you to object againſt thoſe two <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illars?</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Nay, no great matter tbut only that a very weak <hi>Samp<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n</hi> may totter them: For, in ſhort, what is thy <hi>Divine Right</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om above, and our <hi>Non-Reſiſtances</hi> below, and all thy Long-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inded Arguments upon that Subject, any more that ſo many <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gh flown <hi>Enthuſiaſms,</hi> to help up the <hi>Golden Image</hi> of an Arbi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ary <hi>Nebuchadnezar,</hi> whilſt that Fidle of thine, thy Obſerva<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs have been the Pſaltreys, and Sackbuts to tune us to fall down <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d worſhip. A King, at this rate, by thy Aſſertion, provided his <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rect Succeſſion, be unqueſtionable, in nothing elſe, though <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver ſo indirect, can be queſtionable: For he may Be what he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe, and Do what he pleaſes Set up what he pleaſe, and pull <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own what he pleaſe, ſwear what we and our Laws pleaſe, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>form what he and his no Law pleaſe; Run away from his Peo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e when he pleaſes, and Return when and how he pleaſe: In fine, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at a Right Line ſanctifies all Wrong, That the True Blood in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Veins, Enlitles him to the whole Blood in our Veins: And <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at if he pleaſe to take it, we muſt pleaſe to give it him, unleſs <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Tears or Prayers can ſhield off the Blow; for Sir <hi>Rodger</hi> is leaſ'd to allow no other Edge-Tool, or Armour, Offenſive or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efenſive; for our Protection.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Lord Sir, I am all amazement: Can you talk at this <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ild rate, and be one of us?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erg,</hi>
+               </speaker>
+               <p>One of You! Ay, never the worſe for talking, old Boy. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is a Sign I am the more ingenious Freind to your Cauſe, when <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> liſt under your Banner, <hi>ex mero motu,</hi> frankly and generouſly:
+<pb n="4" facs="tcp:172046:3"/>
+Not blindly drawn into a party by Cob-web Arugments, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gin to catch Wood-cocks; Men of Senſe are above it.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>But ſure you don't think that the Right of our Grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maſter, his Divine Right of Royal Inheritance in his Claim to Crowns a Triffle to be thus jeſted with?</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Jeſt Sir! All Jeſt. There neither is, nor ever was an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch Divine Right in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Sir Rog.</speaker>
+               <p>How! No Divine Right.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Right is ſo far from any Claim Divine, that twas alway<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Creation of Power, and Sanction of the Community. If <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lineal Chain of Succeſſion be all thy Foundation; Prithee, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what part of the World wilt thou find i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? How many time<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſince the Conqueſt in 27 Reigns, has that Succeſſion been bro<g ref="char:EOLunhyphen"/>ken, (and if once broken, 'tis never truly rejoined again:) Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inſtance, between the Houſes of <hi>York</hi> and <hi>Lancaſhire,</hi> theſe <hi>quo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dam</hi> hot, and ſometimes bloody Diſputants of Soveraignity, how have Kings been depoſed? What Changes made? and yet th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> preſent Allegiance never queſtion'd nor diſputed. What Divine Right had <hi>Harry</hi> the 7th, when the World will tell you his beſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Title, lay in his Queen, and yet we never read that his People either murmured, or quarrell'd his Recognition to the Throne by Act of Parliament, out of any Grievance, that the Duke o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Richmond</hi> was their Crowned-head, and their Crown'd heire<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but a Subject: Nor, as I ever heard, did his Son <hi>Harry</hi> the 8th, his Succeſſor, upon the death of his Mother, claim poſſeſſion be<g ref="char:EOLunhyphen"/>fore his Father's deceaſe, by any Pretenſion of better Royal Blood in his own, than his Father had in his Veins.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Roger,</hi>
+               </speaker>
+               <p>But certainly the Divine Right of Monarchs —</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Is a meer ſophiſtry, The Juggle of Prieſt-craft, and pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>enſion of Superſtition. So far from any thing of Divine in the caſe, that God Almighty himſelf Abdicated (or very little bet<g ref="char:EOLhyphen"/>ter) the very firſt King even of his own making; laid Miſ<g ref="char:EOLhyphen"/>government to his charge, and Anointed his Succeſſor even be<g ref="char:EOLhyphen"/>fore his death, and that too in the perſon of his darling <hi>David,</hi>
+                  <pb n="5" facs="tcp:172046:3"/>
+the Man after his own heart; ſo far from a Son, or Right Heir of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that he was no Kin to the family; ſo little was Royal Suc<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſion the Care of Heaven, or ought to be the Quarrel of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Roger,</hi>
+               </speaker>
+               <p>Truly, Mr. <hi>Ferg</hi>—, you talk ſtrange bug words, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what ever your own private Opinion is, I hope you do not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ach thoſe Tenents amongſt your <hi>Jacobite</hi> freinds.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Quite contrary, Sir <hi>Roger,</hi> for where <hi>popelus vult ducipi <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>piatur. The Wiſe know better.</hi> Shal we be worſe than the Race of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, uncover our own nakedneſs? No, Sir <hi>Roger,</hi> not all <hi>Evan<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>a veritias,</hi> but ſome <hi>pia fraus.</hi> There's ſtratagem to be uſed in <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hurch Militant,</hi> as well as a <hi>Camp Militant,</hi> not all downright <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngth of Reaſon in one, nor length of Sword in the other: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Example, pray who were greater Aſſertors of that <hi>jus Divi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Doctrine, than our two laſt dying <hi>Freinds,</hi> and as they had <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſo ſtrenuous in it, did not the wiſe managers of their death, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe ſweetneſs of Mortality; the 3. <hi>Tyburn Abſolvers,</hi> very prud<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly take care that they ſhould dye in it ſtrenuouſly too. Ay, <hi>Roger,</hi> we muſt now be thoſe falſe Traitors to our Cauſe, as bew ray our own Neſt.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Verily, Mr. <hi>Ferg</hi> —, you diſcourſe the Politicks <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Cauſe extreamly well. But to ſatisfie one Curioſity, pray <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me quit this ſubject, and without offence be ſo bold as to ask <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one ſingle Queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>A double one, and welcome, Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Conſidering then the Character the World gives of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, your Fluctuating Principles, and uneaſineſs in all Govern<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ts, how comes it that thoſe worthy Gentlemen, concerned in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> glorious, tho dangerous Enterprize, durſt lodge ſo great &amp; im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant a Truſt with ſuch volatile Mercury, as Mr. <hi>Ferg</hi> — 's?</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>My Character, ſay you! Why? 'tis the only thing that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mmended me to their Confidence. For pray, to compare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> between us; you are Zealots and Partiſans in a Conſpiracy <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſooth) out of a principle of Right and Juſtice. But I am
+<pb n="6" facs="tcp:172046:4"/>
+animated by a Sprightlier Fire; am for Mutiny and Miſchi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> right or wrong. You act by dictates of Conſcience and Honou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but I have been ſlighted and diſobliged by the preſent Gove<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ment, and my Motives againſt it are Spight and Revenge: A Revenge never weighs nor diſputes, when on the contrary, H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nour may be tender and ſcrupulous: Beſides, yours is but t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Love, but mine the Luſt of Rebellion: and Love may ſometim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cool, when Luſt always burns.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog,</hi>
+               </speaker>
+               <p>In troth, Mr. <hi>Ferg</hi>—, this Argument ſavours a lit<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> too much of the <hi>Libertine.</hi> But you are a glorious <hi>Don John</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I am ſatisfied the worthy Gentlemen could not have made a no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ler Choice, than ſuch a Friend and Champion, as Mr. <hi>Ferg</hi>—.</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Nay Sir, ſince you touch me in that ſenſible part, I m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tell you farther, That I am always the <hi>Almanzor</hi> of a Conſpir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cy, <hi>Almanzor</hi>-like, I know neither one ſide nor to'ther, any lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ger than <hi>I</hi> am puſhing in it: But then like an <hi>Almanzor</hi> too, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Man puſhes ſo heartily and ſo home as I do. And for diſtinct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ons of which King, or what King, in ſhort, I run amuck at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kings; and indeed at all Religions too: For, between Frien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my King, my Country, my Religion, my Heaven, are all c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tured in my ſelf</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Really Mr. <hi>Ferg</hi>—, you here give me ſo extrao<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dinary, and withal ſo ingenious a Declaration, that I muſt a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>knowledge you a perſon truly worthy Admiration, though not a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>together Imitation. For though you are an abſolute Original, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that no mean one, Yet, I confeſs, 'tis ſuch a one as I durſt n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Copy. My tenderer Morals are a little more nice and ſqweamiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> howe'er to give you your due renown; I heartily wiſh that a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Hands and Hearts, engaged in this Pious and honeſt Confed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>racy, had been all of your Nerve and Mould. For then, we migh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have hoped to have had an anſwerable ſucceſs to the greatneſs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the undertaking, and Reſolution of the Undertakers, and not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have had it thus poorly miſcarry, by ſo many Sieves and Spung<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Leaky falſe Brothers, whoſe Cowardly Revolts and Apoſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cy
+<pb n="7" facs="tcp:172046:4"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as ſo weakly and baſely betrayed, it to our whole Cauſes ut<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Confuſion and Ruine. For truly, Sir, though I myſelf can<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> come up to your Heights, however I muſt do you this Right, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn you one of the moſt qualified Inſtruments, to embark in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſuch Religious and Righteous bold Cauſe. For indeed, 'tis <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y my Maxim, <hi>That provided the Dagger be but conſecrated, no <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r whether the hand be or no.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>There you ſay Right, Sir <hi>Roger;</hi> For we have holy Writ <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur ſide in that point. For we do not read that <hi>Tyrus</hi> the Great, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Heathen and Infidel, is called the Servant of God. <hi>viz.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the great ends for which God had raiſed him. And with the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> parity of Reaſon, our Grand Patron <hi>Lewis,</hi> is the moſt <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>tian</hi> Servant of Jeſus, though the moſt Faithful Sworn Bro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Mahomet.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rog.</hi>
+               </speaker>
+               <p>Nay, Mr. <hi>Ferg</hi>—, now you talk of ſuch Great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in their Age, as a <hi>Cyrus</hi> and a <hi>Lewis.</hi> From their great Ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es, I think it but highly reaſonable, and every ways honour<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> that every Man that has the leaſt glowing ſpark of Ambiti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>Veins, ſhould, and ought to ſignalize himſelf, by doing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hing that may make him Great and Famous in his Genera<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rg.</hi>
+               </speaker>
+               <p>Famous in his Generation! Is that all? Ay, Famous to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rity. That was always my Principle: To be a <hi>Constantine,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Eroſtratus,</hi> to Found Churches, or to Deſtroy Churches; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> States, or ſubvert them; to do ſomething Great either one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or t'other; (no matter which:) to attempt any thing, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rink at nothing, that may leave an Immortal Name behind <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rog.</hi>
+               </speaker>
+               <p>Nay, Mr. <hi>Ferg</hi>—, there we differ. An <hi>Eroſtratus</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tle too much. <hi>I</hi> declare <hi>I</hi> was never that hardy <hi>Boutefeu</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er. 'Tis true, now you talk of that Famous <hi>Incendiary, I</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſs, That fanning the Coals, or lighting the Train, to Fire <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w up a Conventicle has been my particular Maſter-piece and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. I was ever a profeſt <hi>Nero</hi> at ſuch a Conflagration, and
+<pb n="8" facs="tcp:172046:5"/>
+Sung to my Fidle, as heartily, as that Illuſtrious <hi>Roman</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Harp, at ſuch a Bonefire. But as to the Church of <hi>England, I</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever ſo wholly in her Intereſts (as our dear departed has it) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very tender there, till her protection and preſervation was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo near and dear to me, that <hi>I</hi> avow my ſelf her profeſt Kni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Errant, her Dimock, her Champion <hi>&amp;c.</hi> And now to tell <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the very top of my Ambition, and height of all my hopes, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deed the only great thing that <hi>I</hi> deſigned ſhould immortalize <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Name, was one glorious Projection that <hi>I</hi> had formed for Church of <hi>England</hi>'s ſervice. Oh! 'twas the only grand E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my fifty years Bellows had been blowing for. My whole G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Birth, my <hi>Minerva,</hi> my—</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>And pray, What was this glorious Projection?</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>You may remember, how, at the firſt Proteſtant W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Dawn of Popery, in my Obſervators, I projected an <hi>Acc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>modation</hi>—</p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Between both Churches.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Rog.</hi>
+               </speaker>
+               <p>Right Sir, an amicable Reconciliation between <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> old <hi>Roman Mother,</hi> and the Young <hi>Engliſh Virgine</hi> Church: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mark you me Sir, to carry on this great work, having at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time a wonderful Influence over the <hi>Clergy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ferg.</speaker>
+               <p>Influence! Ay, Sir <hi>Roger,</hi> thou wert whole and ſole <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their Aſcendant: An Abſolute <hi>Pontifex Maximus</hi> amongſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> He the <hi>Servus Servorum,</hi> and thou the <hi>Guide of Guides.</hi> But go on.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>Roger.</hi>
+               </speaker>
+               <p>Then, what with that Aſcendance, and my own <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Eloquence, I had projected, as I told you, ſuch an Accom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>dation, ſuch an Eternal Foundation of Peace, ſuch Pillars <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Irenicum,</hi> that had not the obſtinacy of the Times obſtruct <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> glorious a Pile, I had built a Tower that ſhould have reacht <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ven, without the danger of one Tongue of Confuſion: Bro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Lamb</hi> and <hi>Lion</hi> to couch together, ſo lovingly and har<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ly, that inſtead of a <hi>Maudlin</hi> at one end of the Town, and a <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Church</hi> at another, we had ſaved all that trouble; ſo huſht, ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:172046:5"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo compoſed all Jars, till even from a <hi>Pauls</hi> to a <hi>Pancraſs,</hi> from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igheſt to the loweſt, one Roof ſhould have hold Both, as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ftly reconciled, as a Dancing School and a Meeting-houſe: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with all that ſiſterly Love, even to the quietneſs and inno<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a <hi>Switzerland</hi> Congregation: not one Church amongſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould have had <hi>Maſs</hi> in the Morning, and <hi>Common Pray<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the Afternoon.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rg.</hi>
+               </speaker>
+               <p>Nay, this Deſign was great indeed.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Roger.</hi>
+               </speaker>
+               <p>Great! Ay, What could be greater, eſpecially on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Church of <hi>England</hi>'s ſide? For what could have aggrandiz<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church of <hi>England</hi> more, than her generous Hoſpitality, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dopting, Naturalizing and Incorporating ſo conſiderable an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tion to her Strength, Wealth and Fortunes. Whileſt like Empire, but two <hi>Czars,</hi> our Church by this <hi>Hand-in-hand</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, had arrived to the height even of an Abſolute <hi>Muſcovite <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>arochy.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rg.</hi>
+               </speaker>
+               <p>Upon my Veracity, Sir <hi>Roger,</hi> I never heard of a De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> more Heroick.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rog.</hi>
+               </speaker>
+               <p>Ay, Mr. <hi>Ferg,</hi> had my Good Fortune been but anſwer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to my Good Parts, without Vanity let me tell you, I, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oliticks, had ſet up my Royal Pupil <hi>James,</hi> (pardon my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs) a ſecond Great <hi>Alexander,</hi> and my ſelf the Great <hi>A<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rg.</hi>
+               </speaker>
+               <p>Ay, no doubt Sir <hi>Roger.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rog.</hi>
+               </speaker>
+               <p>Nay, to credit my Good Parts, I always acted upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od Principle, I was ever for ſteering by the Chart of a Good <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>cience, and though <hi>I</hi> have ſtood up ſo high for Royal Pre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ive, So <hi>I</hi> always abhorred Invaſion of <hi>Rights</hi> and <hi>Property</hi> as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hole practice of my Life, even in my own moſt diminitive <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>erns and Converſe with Mankind, ſufficiently teſtifie.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rg.</hi>
+               </speaker>
+               <p>So very tender Conſcienced ſay you, in all your Concerns! <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> there you muſt pardon me. For <hi>I</hi> have heard a kind of an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry amongſt ſome Authors and Book-ſellers.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Rog.</hi>
+               </speaker>
+               <p>That would pick a hole in my Scutchion. Alas! poor
+<pb n="10" facs="tcp:172046:6"/>
+ſnarlers, <hi>I</hi> know their Malice. Look you, Mr. <hi>Fer</hi>—, in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reign of <hi>Imprimatur,</hi> when <hi>I</hi> was Soveraign Comptroller of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Preſs, <hi>I</hi> have made bold ſometimes, with a little innocent <hi>Pyra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> borrowed an Earing or two from the <hi>Egyptian</hi> Vermine. For wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a good Copy came to my hands, <hi>I</hi> refuſed it a Licenſe, and writ <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pon the ſubject my ſelf: And all the Juſtice in the World. <hi>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was not my Commiſsion Abſolute, <hi>I</hi> the Lord of the Glebe; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> conſequently the firſt Fruits my own. If that be their feel <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſting againſt me — Look you Sir, at this very time am <hi>I</hi> now tra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lating the Volume of the Famous <hi>Joſephus.</hi> 'Tis true, the Orig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nal Proprietor of that Divine Hiſtory has looked upon the Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as an Eſtate and Inheritance. Much good may it do him, with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Right and Title. I'le find him a <hi>trickum in Lege,</hi> ſuch a ſly da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Pen, to do his Buſineſs for him, whilſt by an old ſlur <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a little new <hi>Engliſh</hi> put upon it, I'le trip up his heels for't as fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and honeſtly, as the beſt fair Fall in a <hi>Lincolns-Inn</hi> Rounds.</p>
+               <p>[Here a Meſſenger to call Sir <hi>Rog.</hi> over to the <hi>Marſhalſea,</hi> bro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off the Conference.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heirs and Succeſſors of <hi>Andre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Anderſon,</hi> Printer to His moſt Excellent Majeſty, 1696</p>
+            <pb facs="tcp:172046:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
